@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: extraproperties
+
+notextra:
+  stringval: foo
+  listval:
+    - item1
+    - item2
